@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122588558767",
+    "project_id": "phoneapp1-99eef",
+    "storage_bucket": "phoneapp1-99eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122588558767:android:c6d8502bb572ba202e6b5a",
+        "android_client_info": {
+          "package_name": "com.internship.phoneappas1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEMQYCTF7hLlWj1rDmefH8_kXFzRX5wc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
